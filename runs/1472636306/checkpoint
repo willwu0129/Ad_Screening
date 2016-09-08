@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/willwu/project/ctc/runs/1472636306/model.ckpt-0"
+all_model_checkpoint_paths: "/home/willwu/project/ctc/runs/1472636306/model.ckpt-0"
